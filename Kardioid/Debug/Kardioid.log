@@ -1,0 +1,4 @@
+﻿  Kardioid.cpp
+N:\Rect_Backgroung\Kardioid\Kardioid.cpp(81,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+N:\Rect_Backgroung\Kardioid\Kardioid.cpp(82,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Kardioid.vcxproj -> N:\Rect_Backgroung\Rect_Backgroung\Debug\Kardioid.exe

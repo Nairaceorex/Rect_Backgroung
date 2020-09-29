@@ -1,0 +1,4 @@
+﻿  Paint_Figure.cpp
+N:\Rect_Backgroung\Paint_Figure\Paint_Figure.cpp(60,9): warning C4101: y: неиспользованная локальная переменная
+N:\Rect_Backgroung\Paint_Figure\Paint_Figure.cpp(60,6): warning C4101: x: неиспользованная локальная переменная
+  Paint_Figure.vcxproj -> N:\Rect_Backgroung\Rect_Backgroung\Debug\Paint_Figure.exe
