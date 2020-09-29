@@ -1,0 +1,6 @@
+﻿  Search.cpp
+N:\Rect_Backgroung\Search\Search.cpp(62,6): warning C4101: hdc: неиспользованная локальная переменная
+N:\Rect_Backgroung\Search\Search.cpp(61,14): warning C4101: ps: неиспользованная локальная переменная
+N:\Rect_Backgroung\Search\Search.cpp(63,9): warning C4101: y: неиспользованная локальная переменная
+N:\Rect_Backgroung\Search\Search.cpp(63,6): warning C4101: x: неиспользованная локальная переменная
+  Search.vcxproj -> N:\Rect_Backgroung\Rect_Backgroung\Debug\Search.exe
