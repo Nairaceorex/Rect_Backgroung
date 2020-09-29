@@ -44,7 +44,7 @@ int APIENTRY _tWinMain(HINSTANCE This, //Дескриптор текущего �
 	ShowWindow(hWnd, mode);//Показать окно
 	//Цикл обработки сообщений
 	HDC hdc = GetDC(hWnd);
-	Rectangle(hdc, 200, 200, 500, 500);
+	Rectangle(hdc, 20, 20, 500, 500);
 	ReleaseDC(hWnd, hdc);
 	while (GetMessage(&msg, NULL, 0, 0))
 	{
